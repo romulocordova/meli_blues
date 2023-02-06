@@ -1,0 +1,6 @@
+{
+    "manifest_version": 1,
+    "name": "MeLi Blues",
+    "version": "1.0",
+    "description": "Convierte los precios de artículos de Mercado Libre ARS a Dolar Blue"
+  }
